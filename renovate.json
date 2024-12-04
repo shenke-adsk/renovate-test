@@ -1,8 +1,8 @@
 {
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
   "prHourlyLimit": 1,
-  "prConcurrentLimit": 5,
-  "branchConcurrentLimit": 5,
+  "prConcurrentLimit": 3,
+  "branchConcurrentLimit": 3,
   "branchPrefix": "renovate-",
   "branchPrefixOld": "renovate/",
   "extends": [
