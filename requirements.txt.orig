@@ -1,0 +1,5 @@
+requests==2.22.0
+Flask==1.1.2
+itsdangerous==1.1.0
+PyGithub==1.54.1
+lxml==4.5.0
